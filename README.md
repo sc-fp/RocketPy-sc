@@ -1,8 +1,24 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RocketPy-Team/RocketPy/master/docs/static/RocketPy_Logo_white.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RocketPy-Team/RocketPy/master/docs/static/RocketPy_Logo_black.png">
-  <img alt="RocketPy Logo" src="https://raw.githubusercontent.com/RocketPy-Team/RocketPy/master/docs/static/RocketPy_Logo_black.png">
-</picture>
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RocketPy-Team/RocketPy/master/docs/static/RocketPy_Logo_white.png">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RocketPy-Team/RocketPy/master/docs/static/RocketPy_Logo_black.png">
+        <img alt="RocketPy Logo" src="https://raw.githubusercontent.com/RocketPy-Team/RocketPy/master/docs/static/RocketPy_Logo_black.png" width="300">
+      </picture>
+    </td>
+    <td align="center" valign="middle">
+      <h1>+</h1>
+    </td>
+    <td align="center" valign="middle">
+      <img alt="Space Concordia Flight Performance Logo" src="https://raw.githubusercontent.com/sc-fp/RocketPy-sc/main/docs/static/spaceconc.png" width="300">
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>(unofficial)</sub>
+</p>
 
 <br>
 
