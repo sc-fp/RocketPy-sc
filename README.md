@@ -1,12 +1,8 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RocketPy-Team/RocketPy/master/docs/static/RocketPy_Logo_white.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RocketPy-Team/RocketPy/master/docs/static/RocketPy_Logo_black.png">
-    <img alt="RocketPy Logo" src="https://raw.githubusercontent.com/RocketPy-Team/RocketPy/master/docs/static/RocketPy_Logo_black.png" height="100">
-  </picture>
-  &nbsp;&nbsp;<b style="font-size: 2em;">+</b>&nbsp;&nbsp;
-  <img alt="Space Concordia Logo" src="https://raw.githubusercontent.com/sc-fp/RocketPy-sc/main/docs/static/spaceconc.png" height="100">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sc-fp/RocketPy-sc/main/docs/static/rockspaceconc.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sc-fp/RocketPy-sc/main/docs/static/rockspaceconc.png">
+  <img alt="RocketPy + Space Concordia Logo" src="https://raw.githubusercontent.com/sc-fp/RocketPy-sc/main/docs/static/rockspaceconc.png">
+</picture>
 
 <p align="center">
   <sub>(unofficial)</sub>
